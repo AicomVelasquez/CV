@@ -1,0 +1,38 @@
+body {
+  background-color: #706897;
+}
+
+hr {
+  border-color: black;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  width: 3.5%;
+}
+
+h1 {
+  color: #364f6b;
+  text-shadow: 1px 1px;
+}
+
+h2 {
+  color: #93abd3;
+  text-shadow: 0.8px 0.8px;
+}
+
+h3 {
+  color: #93abd3;
+  text-shadow: 0.8px 0.8px;
+}
+p:hover{
+  color: gold;
+}
+.Skills:hover {
+  color: gold;
+}
+.Job:hover {
+  color: gold;
+}
+.td:hover {
+  color: gold;
+}
